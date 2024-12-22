@@ -116,14 +116,4 @@ port-scanner/
 ## Author
 
 **Aariz S**
-- GitHub: [github.com/aariz-s](https://github.com/aariz-s)
-- Email: <your-email@example.com>
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-``` 
-
-Let me know if you'd like any changes!
+- Email: aariz92shaikh@gmail.com
