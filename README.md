@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Multi-Threaded Port Scanner
 
 A multi-threaded port scanner that efficiently scans ports for a given IP or hostname using Python. It supports scanning common ports, top 100 ports, or all ports in the range `1-65535`. This tool is designed for speed and reliability, with user-friendly options and detailed reporting.
